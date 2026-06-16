@@ -37,7 +37,7 @@ To guarantee system reliability and avoid critical voltage drops across extensiv
 
 #### Calculation Results Analysis:
 The project evaluates three different cable cross-sections (`10mm²`, `16mm²`, and `25mm²`) to optimize cost vs. performance. 
-* *Decision:* **LAPP H07V-K 1x16** was selected for long trunk lines as it limits temperature rise to a safe $\Delta T \approx 1.52^\circ\text{C}$ and cuts power loss significantly compared to 10mm² alternatives.
+* *Decision:* **LAPP H07V-K 1x16** was selected for long trunk lines as it limits temperature rise to a safe $\Delta T \approx 1.52^\circ\text{C}$ and cuts power loss (voltage drop) significantly compared to 10mm² alternatives.
 
 ---
 

@@ -19,7 +19,7 @@ Electrical control cabinet and power distribution system for a high-power outdoo
 * **Circuit Protection:** Discretized protection layers using ABB Type-C miniature circuit breakers (16A for main power, 6A for auxiliary control circuits).
 
 ### Thermal & Cabinet Engineering
-* **Active Cooling:** Forced-air ventilation using a `Sakaguchi 58025HA2BL` 220VAC enclosure fan.
+* **Active Cooling:** Forced-air ventilation using a 220VAC enclosure fan.
 * **Thermal Dissipation Design:** Adherence to strict placement guidelines (5mm lateral clearance for components) and direct chassis-to-grounded-backplane mounting for optimal thermal sinking and EMC mitigation.
 
 ---

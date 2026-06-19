@@ -77,5 +77,4 @@ The project evaluates three different cable cross-sections (`10mm²`, `16mm²`, 
 ---
 
 ## 5. How to View the Project
-1. Download the complete PDF drawing package from the `/docs` folder.
-2. Source files for the electrical schematics are located within `/src` (compatible with [Name of your Software, e.g., sPlan 8.0 / EPLAN]).
+Download the complete PDF drawing package from the `/docs` folder.

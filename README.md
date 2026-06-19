@@ -43,7 +43,26 @@ The project evaluates three different cable cross-sections (`10mm²`, `16mm²`, 
 ## 4. Documentation Preview
 
 ### Main Control Cabinet Schematic
-![Control Cabinet Schematic](img/single_line.png)
+
+<p align="center">
+<img width="1100" alt="Control Cabinet" src="https://github.com/user-attachments/assets/dfd7c48b-34aa-4eb4-9148-4d0a703ab874" />
+</p>
+
+<br>
+
+<p align="center">
+<img width="1100" alt="Contactors" src="https://github.com/user-attachments/assets/0f2ba5f5-3a79-4fe4-9226-db092399d74f" />
+</p>
+
+<br>
+
+<p align="center">
+<img width="1100" alt="Wire Gauge Calculation" src="https://github.com/user-attachments/assets/3baf17e4-a94e-4c35-bfab-06cf0b6786fe" />
+</p>
+
+<br>
+
+
 
 ### Bill of Materials (BOM) Summary
 | Identifier | Component Name | Part Name / Vendor | Comment |

@@ -1,5 +1,5 @@
 # Industrial-Signage-Control-Cabinet-RC
-Electrical control cabinet and power distribution system for a high-power outdoor LED signage system, featuring IEC-compliant thermal and voltage drop calculations.
+Electrical control cabinet and power distribution system for a high-power outdoor LED signage hotel system, featuring IEC-compliant thermal and voltage drop calculations.
 
 ## 1. Project Overview
 * **Application:** High-power LED Signage System.

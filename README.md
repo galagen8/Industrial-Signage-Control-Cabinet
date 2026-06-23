@@ -1,4 +1,4 @@
-# Industrial-Signage-Control-Cabinet-RC
+# Industrial Signage Control Cabinet for Hotel 
 Electrical control cabinet and power distribution system for a high-power outdoor LED signage hotel system, featuring IEC-compliant thermal and voltage drop calculations.
 
 ## 1. Project Overview
